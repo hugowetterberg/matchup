@@ -1,0 +1,7 @@
+{
+  "name": "matchup",
+  "description": "Fast matching of questionnaire answers against candidates",
+  "version": "0.1.0",
+  "author": "Hugo Wetterberg <hugo@wetterberg.nu>",
+  "main": "index"
+}
